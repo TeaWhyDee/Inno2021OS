@@ -1,0 +1,20 @@
+history | head -n 20
+history | head
+rm ex2.txt
+cat ex2.txt
+history > ex2.txt
+cat ex1.txt
+ls
+cd OS
+cd Documents/GitHub/
+cd ..
+cd gh
+rm GitHub/
+ls GitHub/
+cd
+ssh root@$VULTR_IP
+zathura & disown
+rm test text.txt
+man cat
+cat test
+cat > test
