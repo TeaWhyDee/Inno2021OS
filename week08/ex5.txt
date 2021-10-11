@@ -1,0 +1,9 @@
+RAM stores data. Physical addresses point directly to that
+data. Amount of space and physical addresses available is 
+bounded by hardware.
+Virtual address is an abstraction used in Operating Systems
+to handle sharing space between processes.
+Virtual address points to a physical address.
+The Operating System keeps track and manages virtual 
+addresses and where they point to.
+

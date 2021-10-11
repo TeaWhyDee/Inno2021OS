@@ -1,0 +1,9 @@
+Virtual address is 16 bit.
+Maximum offset portion of a virtual address should be equal to the page size.
+Therefore, the offset is 13 bits.
+Therefore, the page number portion of the virtual address is 16-13=3 bits.
+Therefore, there are 2^3 = 8 page entries in the page table.
+
+The anwer can also be calculated in the following way:
+<virtual address size> / <page size>
+2^16 / 2^13 = 8
