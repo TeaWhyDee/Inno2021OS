@@ -1,0 +1,10 @@
+If I have the same pagaes repeating often, the hit
+amount is very high. For example, if we only ever
+request the same page, miss amount will be 1
+(for the first time we requested that page).
+
+If there are rarely repeating pages, miss ratio is higher.
+For example, if we never have the same page in 17 consecutive
+page reference requests, amount of misses will be equal
+to amount of page reference requests.
+
