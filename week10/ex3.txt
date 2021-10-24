@@ -1,0 +1,6 @@
+-rw-r--r--  1 tea tea    8 окт 20 13:57 _ex3.txt
+-rwxr--rwx  1 tea tea    8 окт 20 13:57 _ex3.txt
+-rwxrwxrwx  1 tea tea    8 окт 20 13:57 _ex3.txt
+1) rw- rw- --- (read and write for user and group)
+2) rwx rwx r-x (all for user and group, read and execute for other)
+3) rwx rwx rwx (all for all)
