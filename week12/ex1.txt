@@ -1,0 +1,15 @@
+0001-0cf7 : PCI Bus 0000:00
+  0001-001f : dma1
+  0021-0021 : pic1
+  0041-0043 : timer0
+  0051-0053 : timer1
+  0061-0060 : keyboard
+  0061-0064 : keyboard
+  0071-0077 : rtc0
+  0081-008f : dma page reg
+  00a1-00a1 : pic2
+  00c1-00df : dma2
+  00f1-00ff : fpu
+  ...
+
+List of I/O ports and the device (device driver) that uses them.
